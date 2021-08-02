@@ -1,1 +1,1 @@
-# python_projects 20 24
+Sample project for practicing the git 
